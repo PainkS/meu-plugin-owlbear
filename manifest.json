@@ -1,0 +1,8 @@
+{
+  "id": "meu-plugin-exemplo",
+  "name": "Meu Plugin no Owlbear",
+  "description": "Este é meu primeiro plugin personalizado para o Owlbear Rodeo.",
+  "api": "1.0.0",
+  "main": "index.html",
+  "tags": ["utility"]
+}
