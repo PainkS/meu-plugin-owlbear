@@ -1,8 +1,12 @@
 {
-  "id": "meu-plugin-exemplo",
   "name": "Meu Plugin no Owlbear",
-  "description": "Este é meu primeiro plugin personalizado para o Owlbear Rodeo.",
-  "api": "1.0.0",
-  "main": "index.html",
-  "tags": ["utility"]
+  "version": "1.0.0",
+  "manifest_version": 1,
+  "action": {
+    "title": "Dizer Oi!",
+    "icon": "/icon.svg",
+    "popover": "/index.html",
+    "height": 200,
+    "width": 300
+  }
 }
